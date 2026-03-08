@@ -1,9 +1,3 @@
-Since you're building strong ML portfolio projects (Fraud Detection, Sentiment Analysis, etc.), this README will be **professional, clean, and recruiter-ready** for your GitHub.
-
-You can copy this directly into `README.md`.
-
----
-
 # 🍽️ Restaurant Rating Prediction System
 
 A Machine Learning project that predicts restaurant ratings based on various features such as location, cost, cuisine, and customer behavior patterns.
