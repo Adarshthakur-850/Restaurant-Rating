@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Restaurant Rating Prediction
 
 Predicting Yelp star ratings using Business features and Review Sentiment analysis.
@@ -23,3 +24,7 @@ Run the pipeline:
 ```bash
 python main.py
 ```
+=======
+# Restaurant-Rating
+ml project
+>>>>>>> 3d8a81590bb21c4d1c117341927265110081df21
