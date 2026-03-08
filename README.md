@@ -161,28 +161,3 @@ jupyter notebook
 Machine Learning & Data Science Enthusiast
 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
 
----
-
----
-
-# 🔥 Optional (If You Want to Impress Recruiters)
-
-Add a badge section at top:
-
-```
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Machine Learning](https://img.shields.io/badge/ML-ScikitLearn-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-```
-
----
-
-If you want, I can also:
-
-* Generate `requirements.txt`
-* Generate a clean `main.py` production version
-* Structure it as a deployable ML project
-* Add CI/CD GitHub Actions workflow
-* Convert it into a portfolio-level production project
-
-Tell me which level you want — academic submission or industry-ready portfolio.
